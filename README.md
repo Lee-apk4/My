@@ -1,5 +1,3 @@
-
-
 INTRODUCTION 
 
 L’eau de linge est généralement  l'eau qui reste après le lavage et qui contenaient des divers résidus, des impuretés en fonction des types de tissus lavés et produits utilisés comme les Détergents et savons : Résidus de produits nettoyants utilisés pour laver les vêtements, qui peuvent inclure des tensioactifs et des agents de blanchiment. Les Salissures et les particules ou colloïdes qui sont des Débris de saleté, fibres des tissus, huiles corporelles, et autres contaminants éliminés pendant le lavage.et aussi les Colorants et produits chimiques en cas de lavage de vêtements colorés qui peuvent être présents dans l’eau de linge. 
