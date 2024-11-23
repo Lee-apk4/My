@@ -32,17 +32,19 @@ The background color is `#4CAF50` for light mode and `#0969DA` for dark mode.
 require "scientist"
 
 # Example headings
+UTF-8 characters
 
 ## Sample Section
+the first and second words, and formatting.
 
 ## This'll be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
+A heading containing characters not allowed in fragments
 
-## This heading is not unique in the file
+## This heading 
 
 TEXT 1
 
-## This heading is not unique in the file
+## This heading is not 
 
 TEXT 2
 
@@ -52,6 +54,6 @@ Link to the sample section: [Link Text](#sample-section).
 
 Link to the helpful section: [Link Text](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
 
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
+Link to the first non-unique section: [Link Text](#this-heading).
 
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+Link to the second non-unique section: [Link Text](#this-heading-is-not).
