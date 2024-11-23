@@ -37,6 +37,7 @@ The background color is `#4CAF50` for light mode and `#0969DA` for dark mode.
 [Contribution image](docs/adaptive_background.png)
 
 # Custom anchor ou navigation 
+
 # Section Heading
 
 Some body text of this section.
