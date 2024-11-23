@@ -78,6 +78,11 @@ Nested
    - First nested list item
      - Second nested list item
 
+# Tasks
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 # Example headings
 ## This heading is unique in the file
 
