@@ -157,10 +157,8 @@ Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-i
 
 
 # MARKDOWN
-<style
-  type="text/css">
-h1 {color:red;}
-
-p {color:blue;}
-</style>
-okay
+<p><a href="/url" title="
+title
+line1
+line2
+">foo</a></p>
