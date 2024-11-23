@@ -17,4 +17,17 @@ MATERIELS ET METHODOLOGIES Les matériels utilisés sont :
 
  Sulfate d’alumine 𝐴𝑙 2 (𝑆𝑂 4 ) 3 : qui  joue  le  rôle de  coagulant 
 
+# BIENVENUE SUR LE SITE WEB
+## FIRST
+### Leson 
+       Styling text
+**Bold** ou _Italic_
+~~Strikethrough~~
+**Bold_and_Italic**
+***All texte to bold and italic***
+<sub>subscrip</sub>
+<sup>superscr</sup>
+<Ins>underline</ins>
+
+
  Acide chlorhydrique HCl 
