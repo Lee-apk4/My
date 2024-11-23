@@ -89,11 +89,11 @@ Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].
 
-# ALERT
-
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
+
+# ALERT
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
@@ -116,6 +116,7 @@ Hiding content with comment
 En haut
 
 Ignoring markdown formating
+
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
 Example headings
@@ -153,3 +154,13 @@ Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-i
 @github/support What do you think about these updates?
 
 @octocat 😠: This PR looks great  - it's ready to merge ! :shipit:
+
+
+# MARKDOWN
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+<p>okay</p
