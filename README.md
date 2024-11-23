@@ -113,6 +113,7 @@ A footnote can also have multiple lines[^2].
 # COMMENT
 Hiding content with comment 
 <!-- This content will not appear in the rendered Markdown -->
+En haut
 
 Ignoring markdown formating
 Let's rename \*our-new-project\* to \*our-old-project\*.
@@ -151,4 +152,4 @@ Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-i
 # Mentioning people
 @github/support What do you think about these updates?
 
-@octocat :+1: This PR looks great  - it's ready to merge ! :shipit:
+@octocat 😠: This PR looks great  - it's ready to merge ! :shipit:
