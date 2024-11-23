@@ -33,27 +33,8 @@ The background color is `#4CAF50` for light mode and `#0969DA` for dark mode.
 
 
 # Example headings
-
-## Sample Section
-Depuis toujours, l'eau est indissociable de l'activité humaine.La révolution
-industrielle du 19è siècle,en exploitant la vapeur d'eau, favorisé le développement de la
-production, rendant l'eau indispensable au fonctionnement des usines. Cependant, cette
-évolution s'est accompagnée d'une dégradation croissante de la qualité de l'eau,
-perturbant l'écosystème. Le rejet des eaux usées, chargé des substances polluants,
-dans l'environnement sans traitement préalable, suscite de plus en plus d'inquiétudes en
-raison des effets néfastes sur la santé et l'environnement.Depuis toujours, l'eau est indissociable de l'activité humaine.La révolution
-industrielle du 19è siècle,en exploitant la vapeur d'eau, favorisé le développement de la
-production, rendant l'eau indispensable au fonctionnement des usines. Cependant, cette
-évolution s'est accompagnée d'une dégradation croissante de la qualité de l'eau,
-perturbant l'écosystème. Le rejet des eaux usées, chargé des substances polluants,
-dans l'environnement sans traitement préalable, suscite de plus en plus d'inquiétudes en
-raison des effets néfastes sur la santé et l'environnement.
-## This'll be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
-
 ## This heading is unique in the file
 
-TEXT 1
 Depuis toujours, l'eau est indissociable de l'activité humaine.La révolution
 industrielle du 19è siècle,en exploitant la vapeur d'eau, favorisé le développement de la
 production, rendant l'eau indispensable au fonctionnement des usines. Cependant, cette
@@ -72,11 +53,11 @@ doivent impérativement être traité avant d'être déversé dans l'environneme
 processus de traitement doit être précédé d'une identification complète des eaux
 concernées.
 
-# Links to the example headings above
-
-Link to INTRODUCTION section: [Link Text](#INTRODUCTION).
+# Commande links
 
 Link to the BIENVENUE SUR LE SITE WEB section: [Link Text](#BIENVENUE-SUR-LE-SITE-WEB).
+
+Link to INTRODUCTION section: [Link Text](#INTRODUCTION).
 
 Link to the first unique section: [Link Text](#this-heading-is-unique-in-the-file).
 
