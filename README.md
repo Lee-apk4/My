@@ -32,7 +32,7 @@ Quoting text
 # EXEMPLE 
 The background color is `#4CAF50` for light mode and `#0969DA` for dark mode.
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
-[Contribution image](docs/CONTRIBUTING.md)
+[Contribution image](docs/adaptive_background.png)
 
 
 # Example headings
