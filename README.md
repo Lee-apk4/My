@@ -22,9 +22,11 @@ Styling text
 Quoting text 
 > La coagulation et la floculation se font ensemble pour transformer les particules fines et les colloïdes en flocs .L’analyse de l’eau est une procédure par laquelle nous allons déterminer les caractères physique ou sensorielle de l’eau. Ces étapes sont utilisées pour le traitement des eaux usées avant de les jeter au milieu naturel. 
 
-Quelque site web
+# Quelque site web
 [facebook] (https://www.facebook.com/)
+
 [google] (https://www.google.com/)
+
 [github] (https://www.gitgub.com/)
 
 # EXEMPLE 
