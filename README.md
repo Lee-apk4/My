@@ -112,7 +112,7 @@ concernées.
 
 Link to the BIENVENUE SUR LE SITE WEB section: [Link Text](#BIENVENUE-SUR-LE-SITE-WEB).
 
-Link to INTRODUCTION section: [Link Text](#INTRODUCTION).
+Link to PICTURE section: [Link Text](#PICTURE).
 
 Link to the first unique section: [Link Text](#this-heading-is-unique-in-the-file).
 
