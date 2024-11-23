@@ -28,10 +28,4 @@ Quelque site web
 [github] (https://www.gitgub.com/)
 
 # EXEMPLE 
-## One
-Texte
-## Two-lien
-Texte
-# Links 
-Link secteur :[link] (#One-lien).
-Link secteur :[link] ((#two-lien-go).
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
