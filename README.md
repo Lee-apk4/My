@@ -1,5 +1,5 @@
 MY
-# INTRODUCTION 
+# BIENVENUE SUR LE SITE WEB 
 
 L’eau de linge est généralement  l'eau qui reste après le lavage et qui contenaient des divers résidus, des impuretés en fonction des types de tissus lavés et produits utilisés comme les Détergents et savons : Résidus de produits nettoyants utilisés pour laver les vêtements, qui peuvent inclure des tensioactifs et des agents de blanchiment. Les Salissures et les particules ou colloïdes qui sont des Débris de saleté, fibres des tissus, huiles corporelles, et autres contaminants éliminés pendant le lavage.et aussi les Colorants et produits chimiques en cas de lavage de vêtements colorés qui peuvent être présents dans l’eau de linge. 
  
@@ -7,7 +7,7 @@ L’eau de linge est généralement  l'eau qui reste après le lavage et qui con
 ## A second-level heading
 ### A third-level heading
  
-# BIENVENUE SUR LE SITE WEB
+# INTRODUCTION
 ## FIRST
 ### Leson 
 Styling text
@@ -64,7 +64,6 @@ raison des effets néfastes sur la santé et l'environnement.
 
 ## This heading is not unique in the file
 
-TEXT 2
 Les types des eaux usées produites par l'industrie provenant de l'industrie de
 transformation agroalimentaire sont une source importante de pollution des eaux. En
 effet, l'industrie de transformation agroalimentaire joue un rôle moteur dans le
@@ -77,7 +76,7 @@ concernées.
 
 Link to INTRODUCTION section: [Link Text](#INTRODUCTION).
 
-Link to the helpful section: [Link Text](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
+Link to the BIENVENUE SUR LE SITE WEB section: [Link Text](#BIENVENUE-SUR-LE-SITE-WEB).
 
 Link to the first unique section: [Link Text](#this-heading-is-unique-in-the-file).
 
