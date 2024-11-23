@@ -23,5 +23,8 @@ Styling text
 <sup>superscr</sup>
 <Ins>underline</ins>
 
+Quoting text 
+Teste 1
+> Texte 2
 
-
+This site was built using [github] (https://page.github.com/)
