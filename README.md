@@ -84,8 +84,6 @@ Nested
 - [ ] Add delight to the experience when all tasks are complete :tada:
 - [ ] \(Optional) Open a followup issue
 
-# Mentioning people
-@github/support What do you think about these updates?
 
 Example headings
 ## This heading is unique in the file
@@ -117,3 +115,8 @@ Link to PICTURE section: [Link Text](#PICTURE).
 Link to the first unique section: [Link Text](#this-heading-is-unique-in-the-file).
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+
+# Mentioning people
+@github/support What do you think about these updates?
+
+@octocat :+1: This PR looks great  - it's ready to merge ! :shipit:
