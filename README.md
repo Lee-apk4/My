@@ -67,10 +67,16 @@ En desordre
 - George Washington
 * John Adams
 + Thomas Jefferson
+
 En ordre
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
+
+Nested
+1. First list item
+   - First nested list item
+     - Second nested list item
 
 # Example headings
 ## This heading is unique in the file
