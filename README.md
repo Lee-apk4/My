@@ -37,10 +37,16 @@ The background color is `#4CAF50` for light mode and `#0969DA` for dark mode.
 [Contribution image](docs/adaptive_background.png)
 
 # Custom anchor ou navigation 
-<a name="My -anchor-name"></a>
-Some text i want.
-(...more content...)
-[A link to custom] (#My-anchor-name)
+# Section Heading
+
+Some body text of this section.
+
+<a name="my-custom-anchor-point"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
+
+[A link to that custom anchor](#my-custom-anchor-point)
 
 
 # Example headings
