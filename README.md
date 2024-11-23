@@ -49,7 +49,7 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 [A link to that custom anchor](#my-custom-anchor-point)
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
+![showing an image.](https:///assets/images/adaptive_background.png)
 # Example headings
 ## This heading is unique in the file
 
