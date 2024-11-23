@@ -28,4 +28,4 @@ Quelque site web
 [github] (https://www.gitgub.com/)
 
 # EXEMPLE 
-The background color is `#4caf50` for light mode and `#000000` for dark mode.
+The background color is `#4caf50` for light mode and `#0969da` for dark mode.
