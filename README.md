@@ -41,19 +41,14 @@ the first and second words, and formatting.
 A heading containing characters not allowed in fragments
 
 ## This heading 
-
 TEXT 1
 
 ## This heading is not 
-
 TEXT 2
 
 # Links to the example headings above
 
-Link to the sample section: [Link Text](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not).
+Link to the example section: [Link](#sample-section).
+Link to the sample section: [Link](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
+Link to the first non-unique section: [Link](#this-heading).
+Link to the second non-unique section: [Link](#this-heading-is-not).
