@@ -196,7 +196,7 @@ To include a pipe | as content within your cell, use a \ before the pipe:
 
 <summary>Tips for collapsed sections</summary>
 
-### You can add a header
+### Click You can add a header
 
 You can add text within a collapsed section. 
 
@@ -207,3 +207,10 @@ You can add an image or a code block, too.
 ```
 
 </details>
+
+## Syntax highlighting
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
