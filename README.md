@@ -157,8 +157,17 @@ Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-i
 
 
 # MARKDOWN
-<p><a href="/url" title="
-title
-line1
-line2
-">foo</a></p>
+## TABLE
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+## AUTRE
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
