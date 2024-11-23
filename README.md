@@ -60,7 +60,10 @@ concernées.
 
 # Links to the example headings above
 
-Link to the example section: [Link](#sample-section).
-Link to the sample section: [Link](#thisll--be-a-helpful-section-about-the-greek-letter-Θ).
-Link to the first non-unique section: [Link](#this-heading).
-Link to the second non-unique section: [Link](#this-heading-is-not).
+Link to the example section: [Link](##sample-section).
+
+Link to the sample section: [Link](##thisll--be-a-helpful-section-about-the-greek-letter-Θ).
+
+Link to the first non-unique section: [Link](##this-heading).
+
+Link to the second non-unique section: [Link](##this-heading-is-not).
