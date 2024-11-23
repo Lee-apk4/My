@@ -26,3 +26,12 @@ Quelque site web
 [facebook] (https://www.facebook.com/)
 [google] (https://www.google.com/)
 [github] (https://www.gitgub.com/)
+
+# EXEMPLE 
+## One
+Texte
+## Two-lien
+Texte
+# Links 
+Link secteur :[link] (#One-lien).
+Link secteur :[link] ((#two-lien-go).
