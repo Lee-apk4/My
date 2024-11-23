@@ -31,9 +31,16 @@ Quoting text
 
 # EXEMPLE 
 The background color is `#4CAF50` for light mode and `#0969DA` for dark mode.
+
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 [Contribution image](docs/adaptive_background.png)
+
+# Custom anchor ou navigation 
+<a name="My -anchor-name"></a>
+Some text i want.
+(...more content...)
+[A link to custom] (#My-anchor-name)
 
 
 # Example headings
