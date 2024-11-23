@@ -170,4 +170,39 @@ Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-i
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
+## Formatting content within your table
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+You can align text to the left, right, or center of a column by including colons : to the left, right, or on both sides of the hyphens within the header row.
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+To include a pipe | as content within your cell, use a \ before the pipe:
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
+# Creating a collapsed section
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
