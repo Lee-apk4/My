@@ -29,33 +29,8 @@ Quelque site web
 
 # EXEMPLE 
 The background color is `#4CAF50` for light mode and `#0969DA` for dark mode.
-require "scientist"
+ 
 
-# Example headings
-
-## Sample Section
-the first and second words, and formatting UTF-8 characters.
-
-## This'll be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments
-
-## This heading 
-Depuis toujours, l'eau est indissociable de l'activité humaine.La révolution
-industrielle du 19è siècle,en exploitant la vapeur d'eau, favorisé le développement de la
-production, rendant l'eau indispensable au fonctionnement des usines. Cependant, cette
-évolution s'est accompagnée d'une dégradation croissante de la qualité de l'eau,
-perturbant l'écosystème. Le rejet des eaux usées, chargé des substances polluants,
-dans l'environnement sans traitement préalable, suscite de plus en plus d'inquiétudes en
-raison des effets néfastes sur la santé et l'environnement.
-
-## This heading is not 
-Les types des eaux usées produites par l'industrie provenant de l'industrie de
-transformation agroalimentaire sont une source importante de pollution des eaux. En
-effet, l'industrie de transformation agroalimentaire joue un rôle moteur dans le
-développement de nombreuses activités à Madagascar. Par conséquent,ces rejet
-doivent impérativement être traité avant d'être déversé dans l'environnement, tout
-processus de traitement doit être précédé d'une identification complète des eaux
-concernées.
 
 # Example headings
 
@@ -67,10 +42,24 @@ A heading containing characters not allowed in fragments, UTF-8 characters, two 
 ## This heading is not unique in the file
 
 TEXT 1
+Depuis toujours, l'eau est indissociable de l'activité humaine.La révolution
+industrielle du 19è siècle,en exploitant la vapeur d'eau, favorisé le développement de la
+production, rendant l'eau indispensable au fonctionnement des usines. Cependant, cette
+évolution s'est accompagnée d'une dégradation croissante de la qualité de l'eau,
+perturbant l'écosystème. Le rejet des eaux usées, chargé des substances polluants,
+dans l'environnement sans traitement préalable, suscite de plus en plus d'inquiétudes en
+raison des effets néfastes sur la santé et l'environnement.
 
 ## This heading is not unique in the file
 
 TEXT 2
+Les types des eaux usées produites par l'industrie provenant de l'industrie de
+transformation agroalimentaire sont une source importante de pollution des eaux. En
+effet, l'industrie de transformation agroalimentaire joue un rôle moteur dans le
+développement de nombreuses activités à Madagascar. Par conséquent,ces rejet
+doivent impérativement être traité avant d'être déversé dans l'environnement, tout
+processus de traitement doit être précédé d'une identification complète des eaux
+concernées.
 
 # Links to the example headings above
 
